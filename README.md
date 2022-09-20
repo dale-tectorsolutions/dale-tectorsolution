@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dale Campbell
 =====================================================================================================================================
 
-IT Administrator (Aspiring Software Engineer)
+IT Administrator
 ---------------------------------------------
 
 I've worked in IT support for 3-4 years across multiple business sectors including retail/logistics, military/government contracting, and higher education. I'm looking to move into the Software Engineering side of tech. Throughout my IT experience, I've created plenty of scripts to accomplish specific tasks; however, I've been really enjoying building websites/webapps as a freelancer.
