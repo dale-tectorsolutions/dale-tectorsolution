@@ -1,15 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dale Campbell
 =====================================================================================================================================
 
-IT Administrator
+IT Systems Administrator
 ---------------------------------------------
 
-I've worked in IT support for 3-4 years across multiple business sectors including retail/logistics, military/government contracting, and higher education. I'm looking to move into the Software Engineering side of tech. Throughout my IT experience, I've created plenty of scripts to accomplish specific tasks; however, I've been really enjoying building websites/webapps as a freelancer.
+I've worked in IT support for 4 years across multiple sectors including retail/logistics, military/government contracting, and higher education. I'm currently getting my masters in Data Science & Strategic Analytics. Throughout my IT experience, I've supported existing networks, configured new networks (routers, switches, Wireless LAN Controllers, Access Points, Firewalls, Servers, etc.), and administered company devices through different MDMs. 
 
 * 🌍  I'm based in New Jersey.
-* ✉️  You can contact me at [dalecam21@gmail.com](mailto:dalecam21@gmail.com)
-* 🧠  I'm learning advanced full-stack development.
-* 🤝  I'm open to collaborating on Web Applications, Website Design, or anything Homebridge related.
+* ✉️  You can contact me at [campb223@go.stockton.edu](mailto:campb223@go.stockton.edu).
+* 🚀  I'm studying to get my masters in Data Science. 
+* ⚡  I love to golf. Nothing beats four hours out with the boys tipping back cold ones. 
+* 🤝  I'm open to collaborating on Web Applications, Website Design, anything Homebridge related, or classwork ( provided it doesn't involve plagarism :D )
 
 ### Skills
 
@@ -28,4 +29,4 @@ I've worked in IT support for 3-4 years across multiple business sectors includi
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/dale-tectorsolutions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dale-campbell-b7a14b86" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://github.com/campb223" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dale-campbell-b7a14b86" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
